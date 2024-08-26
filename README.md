@@ -1,12 +1,9 @@
 # LOWLOWFOODS
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
 This Python script is designed to scrape the H-E-B website to identify and compare product prices across different categories. The script automates the extraction of product data, including prices and categories, and analyzes this information to highlight the cheapest products within each category. It aims to provide users with an efficient tool for finding the best deals on H-E-B products, facilitating smarter shopping decisions and cost savings.
 
 ### Skills Learned
-
 * Web Scraping Techniques: Learn to use libraries such as BeautifulSoup and Scrapy for extracting data from web pages.
 * Data Parsing and Extraction: Gain experience in parsing HTML and extracting relevant information, such as product names, prices, and categories.
 * Data Analysis: Develop skills in analyzing and processing data to identify patterns and find the cheapest products.
@@ -19,8 +16,6 @@ This Python script is designed to scrape the H-E-B website to identify and compa
 * Data Visualization (Optional): If extended, you might also explore visualizing the data using libraries like Matplotlib or Seaborn to present findings effectively.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
-
 * Selenium / Beautiful Soup / Scrapy
 * Pandas / NumPy
 * CSV
